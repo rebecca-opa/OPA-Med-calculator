@@ -12,7 +12,7 @@ LBS_TO_KG = 0.453592
 DRUG_DATA = {
     "Select a Medication": (0.0, 0.0, "mL"),
     "Toltrazuril (Tolt)": (33.0, 50.0, "mL"), 
-    "Panacur (Fenbendazole)": (44.1, 100.0, "mL"), 
+    "Panacur (Fenbendazole)": (50, 100.0, "mL"), 
     # Doxy is now treated as a pill/tablet. 
     # 50.0 is the available pill size in mg (e.g., 50mg tablets).
     "Doxycycline (Pill)": (5.0, 50.0, "Pill"), 
